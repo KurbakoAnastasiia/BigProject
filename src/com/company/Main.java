@@ -7,5 +7,10 @@ public class Main {
 	FactorX.Sun = 1;
 	FactorX.Moon =2;
 	FactorX.planets=2;
+
+	SUN troyo = new SUN();
+	troyo.Heat = "56748kj";
+	troyo.temperature = "347878K";
+	troyo.Radius = "99899989km";
     }
 }
